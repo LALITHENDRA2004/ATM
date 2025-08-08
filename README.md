@@ -1,5 +1,3 @@
-***
-
 # Java ATM Project
 
 A simple ATM simulation program written in Java. This project models basic ATM functionalities such as checking balance, depositing money, and withdrawing money.
@@ -60,7 +58,7 @@ java AtmMain
 
 ## 👤 Author
 
-Created by [Lalitendra].
+Created by Lalitendra.
 
 **Happy banking with your Java ATM!** 
 
